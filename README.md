@@ -4,7 +4,7 @@
  # 🖖 Hey there! I'm Furkan. <img align="right" src="https://komarev.com/ghpvc/?username=yamanf&style=flat-square&color=blueviolet"><br>
 
 <h2 align="center">I'm an Android Developer!</h2>
-<p align="center">I am 24 years old, I live in Canakkale, Turkey.</p> 
+<p align="center">I am 24 years old, I live in Canakkale, Turkey. I am currently a student at <a href="https://www.linkedin.com/company/pazarama/">Pazarama<a> & <a href="https://www.linkedin.com/school/patikadev/">Patika.Dev<a> Android Bootcamp. </p> 
 <div align="center">
 <h3>👨🏻‍💻  About me </h3> 
 - 🎒 &nbsp; I graduated from Environmental Engineering and Web Design&Coding Departments<br>
