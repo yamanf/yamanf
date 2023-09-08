@@ -4,7 +4,7 @@
  # 🖖 Hey there! I'm Furkan. <img align="right" src="https://komarev.com/ghpvc/?username=yamanf&style=flat-square&color=blueviolet"><br>
 
 <h2 align="center">I'm an Android Developer!</h2>
-<p align="center">I am 24 years old, I live in Canakkale, Turkey. I am currently a student at <a href="https://oyunveuygulamaakademisi.com/">Google Game and Application Academy<a> </p> 
+<p align="center">I am 24 years old, I live in Canakkale, Turkey. I am currently a working at <a href="anonve.com">Anonve Technologies<a> & eBebek</p> 
 <div align="center">
 <h3>👨🏻‍💻  About me </h3> 
 - 🎒 &nbsp; I graduated from Environmental Engineering and Web Design&Coding Departments<br>
